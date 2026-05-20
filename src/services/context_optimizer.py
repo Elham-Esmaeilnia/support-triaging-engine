@@ -1,5 +1,5 @@
 """
-EngineTriagingSupport - Context Optimization Layer
+SupportTriagingEngine - Context Optimization Layer
 ==================================================
 
 Overview
@@ -35,7 +35,7 @@ Elham Esmaeilnia (elham.e.shirvani@gmail.com)
 
 Service
 -------
-EngineTriagingSupport
+SupportTriagingEngine
 
 Version
 -------

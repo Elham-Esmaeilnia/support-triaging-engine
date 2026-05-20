@@ -1,5 +1,5 @@
 """
-EngineTriagingSupport - Text Preprocessing Utilities
+SupportTriagingEngine - Text Preprocessing Utilities
 ====================================================
 
 Overview
@@ -39,7 +39,7 @@ Elham Esmaeilnia (elham.e.shirvani@gmail.com)
 
 Service
 -------
-EngineTriagingSupport
+SupportTriagingEngine
 
 Version
 -------

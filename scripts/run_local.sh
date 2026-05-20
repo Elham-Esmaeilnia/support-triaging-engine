@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # ==============================================================================
-# EngineTriagingSupport
+# SupportTriagingEngine
 # ==============================================================================
 # Overview
 # --------
-# This script serves as the entry point for running the EngineTriagingSupport
+# This script serves as the entry point for running the SupportTriagingEngine
 # microservice locally. It sets up the required environment variables and
 # executes the FastAPI application using Uvicorn.
 #

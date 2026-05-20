@@ -1,10 +1,10 @@
 """
-EngineTriagingSupport API
+SupportTriagingEngine API
 =========================
 
 Overview
 --------
-This module exposes the REST API for the EngineTriagingSupport service, a microservice
+This module exposes the REST API for the SupportTriagingEngine service, a microservice
 designed to automatically analyze and triage customer support tickets using an LLM-powered
 processing pipeline.
 
@@ -59,7 +59,7 @@ Elham Esmaeilnia (elham.e.shirvani@gmail.com)
 
 Service
 -------
-EngineTriagingSupport
+SupportTriagingEngine
 -------
 
 Date
@@ -86,7 +86,7 @@ logger = get_logger(__name__)
 
 # Initialize API application
 app = FastAPI(
-    title="EngineTriagingSupport",
+    title="SupportTriagingEngine",
     description="LLM-powered microservice for automated support ticket triaging",
     version="1.0.0",
 )

@@ -1,5 +1,5 @@
 """
-EngineTriagingSupport - Ticket Orchestration Pipeline
+SupportTriagingEngine - Ticket Orchestration Pipeline
 =====================================================
 
 Overview
@@ -70,7 +70,7 @@ Elham Esmaeilnia (elham.e.shirvani@gmail.com)
 
 Service
 -------
-EngineTriagingSupport
+SupportTriagingEngine
 
 Version
 -------

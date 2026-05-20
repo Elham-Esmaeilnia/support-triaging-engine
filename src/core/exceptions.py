@@ -1,5 +1,5 @@
 """
-EngineTriagingSupport - Custom Exceptions
+SupportTriagingEngine - Custom Exceptions
 =========================================
 
 Overview
@@ -21,7 +21,7 @@ Elham Esmaeilnia (elham.e.shirvani@gmail.com)
 
 Service
 -------
-EngineTriagingSupport
+SupportTriagingEngine
 
 Version
 -------

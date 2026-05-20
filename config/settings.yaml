@@ -1,5 +1,5 @@
 app:
-  name: EngineTriagingSupport
+  name: SupportTriagingEngine
   environment: development
 
 llm:

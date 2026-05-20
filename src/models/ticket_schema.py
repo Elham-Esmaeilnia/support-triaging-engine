@@ -1,5 +1,5 @@
 """
-EngineTriagingSupport - Ticket Analysis Schema
+SupportTriagingEngine - Ticket Analysis Schema
 ==============================================
 
 Overview
@@ -40,7 +40,7 @@ Elham Esmaeilnia (elham.e.shirvani@gmail.com)
 
 Service
 -------
-EngineTriagingSupport
+SupportTriagingEngine
 
 Version
 -------

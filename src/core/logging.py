@@ -1,11 +1,11 @@
 """
-EngineTriagingSupport - Core Logging Utility
+SupportTriagingEngine - Core Logging Utility
 ============================================
 
 Overview
 --------
 This module provides centralized logging configuration for the
-EngineTriagingSupport service. It ensures that all logs are formatted
+SupportTriagingEngine service. It ensures that all logs are formatted
 consistently across the application and are written to both:
 
 1. Standard output (`stdout`) for container-friendly observability
@@ -51,7 +51,7 @@ Elham Esmaeilnia (elham.e.shirvani@gmail.com)
 
 Service
 -------
-EngineTriagingSupport
+SupportTriagingEngine
 
 Version
 -------

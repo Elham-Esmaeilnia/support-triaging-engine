@@ -3,7 +3,7 @@
 The repository is organized to separate API logic, core configuration, services, and documentation. This structure keeps the system modular and easier to maintain or extend.
 
 ```
-engine-triaging-support/
+support-triaging-engine/
 │
 ├── src/
 │   ├── api/

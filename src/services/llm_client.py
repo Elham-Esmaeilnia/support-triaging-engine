@@ -1,5 +1,5 @@
 """
-EngineTriagingSupport - LLM Client Service
+SupportTriagingEngine - LLM Client Service
 ==========================================
 
 Overview
@@ -41,7 +41,7 @@ Elham Esmaeilnia (elham.e.shirvani@gmail.com)
 
 Service
 -------
-EngineTriagingSupport
+SupportTriagingEngine
 
 Version
 -------
