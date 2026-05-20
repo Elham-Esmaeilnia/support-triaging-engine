@@ -1,0 +1,41 @@
+{
+  "0": {
+    "department": "مالی و فاکتور",
+    "summary_en": "Customer reports a failed payment and not receiving a receipt after 24 hours.",
+    "urgency_level": 4,
+    "detected_bugs": [
+      "payment processing",
+      "receipt delivery"
+    ]
+  },
+  "1": {
+    "department": "شکایات",
+    "summary_en": "Customer reports that their hair is red and asks for guidance.",
+    "urgency_level": 1,
+    "detected_bugs": []
+  },
+  "2": {
+    "department": "فنی و باگ",
+    "summary_en": "User sent a greeting without any specific issue. No action needed.",
+    "urgency_level": 1,
+    "detected_bugs": []
+  },
+  "3": {
+    "department": "شکایات",
+    "summary_en": "The customer message contains only a polite closing word without any specific issue description.",
+    "urgency_level": 1,
+    "detected_bugs": []
+  },
+  "4": {
+    "department": "فنی و باگ",
+    "summary_en": "Customer reports a problem with insurance. No specific details provided.",
+    "urgency_level": 2,
+    "detected_bugs": []
+  },
+  "5": {
+    "department": "مالی و فاکتور",
+    "summary_en": "The customer finds the product or service too expensive.",
+    "urgency_level": 1,
+    "detected_bugs": []
+  }
+}

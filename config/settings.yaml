@@ -1,0 +1,17 @@
+app:
+  name: EngineTriagingSupport
+  environment: development
+
+llm:
+  temperature: 0
+  max_tokens: 400
+
+context_optimization:
+  max_compressed_chars: 1200
+  remove_email_signatures: true
+  remove_greetings: true
+  remove_quoted_history: true
+
+cache:
+  top_k: 1
+  similarity_threshold: 0.85

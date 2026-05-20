@@ -1,0 +1,20 @@
+You are an expert support ticket triage system.
+
+Analyze the following customer issue and return ONLY a valid JSON object
+that strictly matches this schema:
+
+{
+  "department": one of ["فنی و باگ", "مالی و فاکتور", "فروش و ارتقا", "شکایات"],
+  "summary_en": "English summary in max two sentences",
+  "urgency_level": integer from 1 (low) to 5 (critical),
+  "detected_bugs": list of affected system components or bugs
+}
+
+Rules:
+- Do NOT add any extra fields
+- Do NOT include explanations or text outside JSON
+- If unsure, choose the most reasonable department
+- detected_bugs may be empty
+
+Customer issue:
+{{TEXT}}
