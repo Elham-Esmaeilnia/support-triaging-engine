@@ -267,8 +267,6 @@ tensor_parallel_size = 1
 ```
 Using tensor parallelism across mismatched GPUs usually reduces efficiency because the faster GPU is forced to wait for the slower one.
 
----
-
 ### 2. `max_model_len`
 
 This setting strongly affects KV‑cache memory usage and therefore overall concurrency.
@@ -282,8 +280,6 @@ Typical practical values:
 
 For this use case, lowering `max_model_len` is one of the most impactful optimizations.
 
----
-
 ### 3. Batch and Concurrency Tuning
 
 To maximize throughput, the system should tune parameters such as:
@@ -293,8 +289,6 @@ To maximize throughput, the system should tune parameters such as:
 - KV‑cache precision
 
 Because support tickets are typically short, the system can sustain higher batching levels without significantly increasing latency.
-
----
 
 ### 4. Model Sizing
 
@@ -306,8 +300,6 @@ Typical examples include:
 - **8B models**
 
 These models are generally sufficient for structured tasks such as ticket triaging while allowing higher concurrency and lower latency compared to larger models.
-
----
 
 ### 5. Separate Serving by GPU Capability
 
